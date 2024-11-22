@@ -12,24 +12,28 @@ Please note that development is still in the very early stages, and it might tak
 
 # Features
 
-WIP
+The package's main features and capabilities will be announced and listed here as soon as they are added.
 
 # Installation
 
-An empty version of the package will be published on PyPI soon. For subsequent releases, installation via pip and via git clone will both be supported.
+An empty version of the package will be published on PyPI soon. For subsequent releases, the package will be available for installation using pip and git.
 
 # Basic Usage
 
-WIP
+Once some basic functionality has been added to the package, a small tutorial on how to use it will be presented here.
 
 # Documentation
 
-WIP
+An official documentation website will be released soon.
+
+# Issues
+
+Coming soon...
 
 # Contributing
 
-WIP
+Coming soon...
 
 # About
 
-The package is currently under development.
+ControLib is currently being developed and maintained by Miguel Loureiro, a mechanical engineer who specialises in control systems, machine learning, and optimisation.
