@@ -1,1 +1,93 @@
-site_name: My Docs
+site_name: ControLib
+
+site_url: https://miguelloureiro98.github.io/controlib/
+
+repo_url: https://github.com/MiguelLoureiro98/controlib
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+
+  name: material
+  language: en
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.share
+    - content.code.copy
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/eye
+        name: Switch to dark mode
+      primary: indigo
+      accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/eye-outline
+        name: Switch to light mode
+      primary: indigo
+      accent: cyan
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/miguel-santos-loureiro/
+      name: Miguel Loureiro's LinkedIn page
+    - icon: fontawesome/brands/github
+      link: https://github.com/MiguelLoureiro98
+      name: Miguel Loureiro's GitHub page
+
+copyright: Copyright &copy; 2024 Miguel Loureiro
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: numpy
+            show_submodules: true
+            docstring_options:
+              ignore_init_summary: true
+            merge_init_into_class: true
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - User Guide:
+    - user_guide/index.md
+  - API Reference:
+    - API_ref/index.md
+  - Examples:
+    - examples/index.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md
+  - About: about.md

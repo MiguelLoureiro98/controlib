@@ -18,21 +18,13 @@ The package's main features and capabilities will be announced and listed here a
 
 An empty version of the package will be published on PyPI soon. For subsequent releases, the package will be available for installation using pip and git.
 
-# Basic Usage
-
-Once some basic functionality has been added to the package, a small tutorial on how to use it will be presented here.
-
 # Documentation
 
-An official documentation website will be released soon.
+An official documentation website containing installation instructions, user guides, an API reference, examples, and a contribution guide,  will be released soon.
 
-# Issues
+# Known Issues
 
-Coming soon...
-
-# Contributing
-
-Coming soon...
+Nothing to report.
 
 # Licence
 
