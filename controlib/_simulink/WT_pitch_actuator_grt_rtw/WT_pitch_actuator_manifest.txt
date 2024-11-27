@@ -1,0 +1,33 @@
+This file is the manifest for the generated code from model 'WT_pitch_actuator'.
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rt_logging.c
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator.c
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_capi.c
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_data.c
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\rt_nonfinite.c
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rt_logging_mmi.c
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rtw_modelmap_utils.c
+C:\Program Files\MATLAB\R2024a\rtw\c\src\common\rt_main.c
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\rt_nonfinite.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_capi.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_capi_host.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_private.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_types.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\builtin_typeid_types.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\multiword_types.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\rtmodel.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\rtwtypes.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rtw_modelmap.h
+C:\Program Files\MATLAB\R2024a\simulink\include\rtw_continuous.h
+C:\Program Files\MATLAB\R2024a\simulink\include\rtw_solver.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rt_logging.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rt_logging_mmi.h
+C:\Program Files\MATLAB\R2024a\extern\include\tmwtypes.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\ext_mode\common\ext_work.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rt_mxclassid.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rtw_capi.h
+C:\Program Files\MATLAB\R2024a\rtw\c\src\rtw_modelmap_logging.h
+C:\Program Files\MATLAB\R2024a\simulink\include\rtw_matlogging.h
+C:\Program Files\MATLAB\R2024a\simulink\include\sl_types_def.h
+C:\Program Files\MATLAB\R2024a\simulink\include\sysran_types.h
+C:\Users\ml4\Desktop\Projects\Repos\controlib\controlib\_simulink\WT_pitch_actuator_grt_rtw\WT_pitch_actuator_manifest.txt
