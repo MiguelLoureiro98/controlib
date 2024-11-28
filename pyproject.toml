@@ -48,6 +48,6 @@ include = ["controlib*"]
 [tool.setuptools.dynamic.version]
 attr = "controlib.__version__"
 
-[tool.semantic-release]
-version_toml = "controlib.__version__"
+[tool.semantic_release]
+version_variables = ["controlib/__init__.py:__version__"]
 changelog_file = "docs/changelog.md"
