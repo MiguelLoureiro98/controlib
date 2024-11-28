@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "controlib"
-version = "0.0.1"
+dynamic = ["version"]
 authors = [
     {name = "Miguel Santos Loureiro", email = "miguel.santos.loureiro@gmail.com"}
 ]
@@ -45,6 +45,9 @@ repository = "https://github.com/MiguelLoureiro98/controlib"
 [tool.setuptools.packages.find]
 include = ["controlib*"]
 
+[tool.setuptools.dynamic]
+version = {attr = "controlib.__version__"}
+
 [tool.semantic_release]
-version_toml = ["pyproject.toml:version"]
+version_variables = ["controlib/_version.py:__version__"]
 changelog_file = "docs/changelog.md"
