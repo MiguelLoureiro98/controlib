@@ -50,6 +50,6 @@ version = {attr = "controlib.__version__"}
 
 [tool.semantic_release]
 version_variables = ["controlib/_version.py:__version__"]
-changelog_file = "docs/changelog.md"
+changelog.default_templates.changelog_file = "docs/changelog.md"
 remote.type = "github"
-remote.token = "GH_TOKEN"
+remote.token = {env = "GH_TOKEN"}
