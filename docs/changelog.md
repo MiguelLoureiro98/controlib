@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.5 (2024-11-29)
+
+### Bug Fixes
+
+- **config**: Final try at trying PSR to work properly.
+  ([`97ffaad`](https://github.com/MiguelLoureiro98/controlib/commit/97ffaad0ebb9b316ab4e2e038ea0fa03034ab535))
+
+### Build System
+
+- **config**: Specified build command for PSR in pyproject.toml.
+  ([`88fc5c9`](https://github.com/MiguelLoureiro98/controlib/commit/88fc5c9a948bf9ca27d7c84fad04b06af7d088d4))
+
+
 ## v0.0.4 (2024-11-29)
 
 ### Bug Fixes
