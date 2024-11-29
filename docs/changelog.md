@@ -1,6 +1,18 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
+
+## v0.0.3 (2024-11-29)
+
+### Bug Fixes
+
+- **config**: Changed changelog file location. Tried to set new env variable.
+  ([`33b0074`](https://github.com/MiguelLoureiro98/controlib/commit/33b0074aca45db27fafd4a920930af68cf5a1fcd))
+
+### Build System
+
+- **config**: Changed pyproject.toml file.
+  ([`2aed6c2`](https://github.com/MiguelLoureiro98/controlib/commit/2aed6c2828e85b0cf3275789f2d7e56e5239face))
+
 
 ## v0.0.2 (2024-11-28)
 
@@ -14,8 +26,6 @@
 
 
 ## v0.0.1 (2024-11-28)
-
-- This is the original release.
 
 ### Bug Fixes
 
