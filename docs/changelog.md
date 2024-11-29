@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.4 (2024-11-29)
+
+### Bug Fixes
+
+- **config**: Another try to fix the PSR access issue.
+  ([`9f2cfee`](https://github.com/MiguelLoureiro98/controlib/commit/9f2cfeebbcbd24e44073c5f8c0d7354c1039bd15))
+
+### Build System
+
+- **config**: Deleted root changelog file.
+  ([`bf31794`](https://github.com/MiguelLoureiro98/controlib/commit/bf31794edce06503068a813a19bb3b1248e8b7de))
+
+
 ## v0.0.3 (2024-11-29)
 
 ### Bug Fixes
