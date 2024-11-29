@@ -52,4 +52,4 @@ version = {attr = "controlib.__version__"}
 version_variables = ["controlib/_version.py:__version__"]
 changelog.default_templates.changelog_file = "docs/changelog.md"
 remote.type = "github"
-remote.token = {env = "GH_TOKEN"}
+remote.token = "GH_TOKEN"
