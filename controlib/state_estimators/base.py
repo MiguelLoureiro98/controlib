@@ -14,4 +14,35 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-__version__ = "0.0.6"
+"""
+This module contains the base class for state estimators.
+
+Classes
+-------
+StateEstimator
+    State estimator base class.
+"""
+
+from abc import ABC, abstractmethod
+import numpy as np
+
+class StateEstimator(ABC):
+
+    def __init__(self, sampling_time: int | float, n_inputs: int | float, n_outputs: int | float) -> None:
+
+        super().__init__();
+        self._Ts = sampling_time;
+        self._input_dim = n_inputs;
+        self._output_dim = n_outputs;
+
+        return;
+
+    @abstractmethod
+    def compute(self) -> np.ndarray:
+
+        pass
+
+    @abstractmethod
+    def info(self) -> None:
+
+        pass
