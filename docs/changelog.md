@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.0.6 (2024-12-02)
+
+### Bug Fixes
+
+- **dummy**: Last try to get PSR to publish a release correctly.
+  ([`b2e83a0`](https://github.com/MiguelLoureiro98/controlib/commit/b2e83a0155ab1a6ecdce7d613ce50e94c0d5e54e))
+
+
 ## v0.0.5 (2024-11-29)
 
 ### Bug Fixes
