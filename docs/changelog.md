@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.0 (2024-12-02)
+
+### Features
+
+- Added base controller classes.
+  ([`8bd2569`](https://github.com/MiguelLoureiro98/controlib/commit/8bd256993718ce13299505e71562a6611bdff090))
+
+
 ## v0.0.6 (2024-12-02)
 
 ### Bug Fixes
@@ -52,25 +60,25 @@
 
 ### Bug Fixes
 
-- **config**: Define remote type and remote token fields for Python Semantic Release.
-  ([`974886c`](https://github.com/MiguelLoureiro98/controlib/commit/974886ce7f16d0d9374969c857f97a14d729f2eb))
-
 - **config**: Added version file. Changed configuration files. Added Changelog placeholder.
   ([`8715d1b`](https://github.com/MiguelLoureiro98/controlib/commit/8715d1bbfebb47b73912bba9709cb08d57437aec))
+
+- **config**: Define remote type and remote token fields for Python Semantic Release.
+  ([`974886c`](https://github.com/MiguelLoureiro98/controlib/commit/974886ce7f16d0d9374969c857f97a14d729f2eb))
 
 
 ## v0.0.1 (2024-11-28)
 
 ### Bug Fixes
 
-- **config**: Modified config files.
-  ([`e895387`](https://github.com/MiguelLoureiro98/controlib/commit/e8953879c59e0c3fcc328f569266d6c2beab9356))
+- Changed configuration files. Added dynamic versioning.
+  ([`dbb5521`](https://github.com/MiguelLoureiro98/controlib/commit/dbb5521b7ff65bd198e370a1603c13e6316eb093))
 
 - **config**: Fixed semantic_release table.
   ([`b43d772`](https://github.com/MiguelLoureiro98/controlib/commit/b43d7723f15631ad9ffeab7849f63db902d601b4))
 
-- Changed configuration files. Added dynamic versioning.
-  ([`dbb5521`](https://github.com/MiguelLoureiro98/controlib/commit/dbb5521b7ff65bd198e370a1603c13e6316eb093))
+- **config**: Modified config files.
+  ([`e895387`](https://github.com/MiguelLoureiro98/controlib/commit/e8953879c59e0c3fcc328f569266d6c2beab9356))
 
 ### Documentation
 
