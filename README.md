@@ -16,7 +16,28 @@ The package's main features and capabilities will be announced and listed here a
 
 # Installation
 
-An empty version of the package will be published on PyPI soon. For subsequent releases, the package will be available for installation using pip and git.
+## Using pip
+
+The package can be installed via pip:
+
+```
+pip install controlib
+```
+
+## Using git
+
+Alternatively, you can download the package directly from Github. To do so, clone the repository:
+
+```
+git clone https://github.com/MiguelLoureiro98/controlib.git
+```
+
+Then, move into the package's directory and install it using pip:
+
+```
+cd controlib
+pip install .
+```
 
 # Documentation
 
